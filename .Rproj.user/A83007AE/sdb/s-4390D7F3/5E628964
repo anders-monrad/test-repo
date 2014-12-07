@@ -1,0 +1,17 @@
+{
+    "contents" : "## myscript\n\n",
+    "created" : 1417967644206.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4166911313",
+    "id" : "5E628964",
+    "lastKnownWriteTime" : 1417967672,
+    "path" : "C:/dev/GitProjects/test-repo/Test.R",
+    "project_path" : "Test.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
